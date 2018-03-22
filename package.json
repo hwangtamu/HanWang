@@ -26,7 +26,7 @@
     "fs": "~0.0.1-security",
     "body-parser": "~1.17.1",
     "redis-server": "~1.1.0",
-    "dateformat":"~2.0.0"
+    "dateformat": "~2.0.0"
   },
   "author": "Han Wang",
   "license": "ISC",
